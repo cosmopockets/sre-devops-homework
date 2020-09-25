@@ -3,6 +3,9 @@ As I understnad I need to complete the following action items.
 1. Create a terraform file that does the following
     a. elastic load balancer
     b. ec2 instance
+        - are there requirements for the VM? 
+        - like OS version? 
+        - Confirmation - "only req "
     c. postgress RDS db
     d. any required security group
 
